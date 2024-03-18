@@ -40,8 +40,5 @@ My name is Juliana and I'm a cybersecurity student from Brazil.🔒
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/julopess/julopess/output/snake.svg" alt="Snake animation" />
 
 ###
